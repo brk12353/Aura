@@ -16,7 +16,8 @@ end
 
 StarterGui:SetCore("SendNotification", {
     Title = "AVATAR CHANGER",
-    Text = "This Script Is PAID Join our Discord for purchase!",
+    Text = "This Script Is PAID Join our Discord for purchase!
+ALSO IF YOU JOIN DISCORD FREE 1 DAY TRIAL",
     Duration = 5,
     Button1 = "COPY LINK",
     Callback = callbackFunction
