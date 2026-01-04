@@ -23,6 +23,6 @@ StarterGui:SetCore("SendNotification", {
 })
 StarterGui:SetCore("SendNotification", {
     Title = "AVATAR CHANGER",
-    Text = "TEH SCRIPT IS 3$ ALSO IF YOU JOIN DISCORD FREE 1 DAY TRIAL",
+    Text = "THE SCRIPT IS 3$ ALSO IF YOU JOIN DISCORD FREE 1 DAY TRIAL",
     Duration = 5,
 })
